@@ -1,2 +1,2 @@
-# go-app-com-docker
+# go-apps-com-docker
 Desenvolvimento de aplicações em Go usando Docker
