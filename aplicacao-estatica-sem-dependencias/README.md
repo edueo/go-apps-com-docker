@@ -20,4 +20,5 @@ Hospedar os arquivos estáticos no diretório `static`
 
 [Acessar](http://localhost:8080)
 
+Para parar a execução do container: `make stop`
 
